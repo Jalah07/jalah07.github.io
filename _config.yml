@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to my reading notes!
+include: 
+-README.md
+-reflection.md
