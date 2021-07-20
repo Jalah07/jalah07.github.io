@@ -1,2 +1,2 @@
-# reading-notes
-What is the growth mindset? Why do you need it?
+# Reading Notes
+## What is the growth mindset? Why do you need it?
