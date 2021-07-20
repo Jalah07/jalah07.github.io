@@ -1,6 +1,8 @@
 # Reading Notes
 ## What is the growth mindset? Why do you need it?
 
+![Image of Growth Mindset](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carsondellosa.com%2F110441--growth-mindset-bulletin-board-set-110441%2F&psig=AOvVaw34zxnovgzO7WrVuLRa92oM&ust=1626893628956000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNi3rJqp8vECFQAAAAAdAAAAABAD)
+
 The growth mindset refers to the underlying belief that people have about learning and intelligence. People that have a growth mindset embrace challenges and persists in them. So, their talents can be developed and molded into something great. However, there is a mindset called the fixed mindset and it is the opposite of the growth mindset. Individuals with a fixed mindset believe that talent and intelligence are fixed. If you have a growth mindset, you embrace mistakes as a part of the learning process.
 
 **More Characteristics of a Growth Mindset**
@@ -25,6 +27,7 @@ Taking on the growth mindset fully can be a difficult task if you have a fixed m
 4. Ask someone that is knowledgeable on the topic how you did.
 5. Stay out of your comfort zone.
 6. Realize that failure is a part of the progress.
+
 
 In the words of Theodore Roosevelt
 > It is hard to fail but it is worse never to have tried to succeed.
