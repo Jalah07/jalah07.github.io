@@ -30,3 +30,4 @@
   - Visual Studio Code
   - PyCharm
   - Xcode
+  - IntelliJ
