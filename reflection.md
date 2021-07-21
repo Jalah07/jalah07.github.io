@@ -15,7 +15,7 @@
 - Easy use for beginner. Not too many shortcut to remember.
 
 
-###Examples of an coding-specific text-editor
+### Examples of an coding-specific text-editor
 - Notepad++
 - Sublime Text
 
@@ -26,7 +26,7 @@
 - Customization
 - Built-in debugging
 
-###Examples of an IDE
+### Examples of an IDE
   - Visual Studio Code
   - PyCharm
   - Xcode
