@@ -31,6 +31,6 @@ Like a tree branch it is connected to a trunk and allows thing to branch out. Br
 
 ## Some Git code commands
 
-`git push -u origin master` <- git push request
-`git pull origin master` <-  git pull request
-`git clone [repository url]` <- git clone
+- `git push -u origin master` <- git push request
+- `git pull origin master` <-  git pull request
+- `git clone [repository url]` <- git clone
