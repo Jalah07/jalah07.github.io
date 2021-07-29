@@ -37,7 +37,7 @@ HTML also known as Hypertext Markup Language is the standard markup language for
 
 ## Example of a Wireframe
 
-![Wireframe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mockplus.com%2Fblog%2Fpost%2Fwireframe-example&psig=AOvVaw3u5MTM2f8EfHQ-MFLKqopo&ust=1627540107090000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCBr8aRhfICFQAAAAAdAAAAABAr)
+![Wireframe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcacoo.com%2Fblog%2F10-must-see-wireframe-examples-inspire-next-design%2F&psig=AOvVaw1Ka6oB_lG0Adjp1r2az6lP&ust=1627615112252000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLC6kPeoh_ICFQAAAAAdAAAAABAD)
 
 
 https://www.w3schools.com/html/html_intro.asp
