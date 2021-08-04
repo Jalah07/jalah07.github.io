@@ -1,5 +1,5 @@
 ## What is JavaScript?
-JavaScript is a programming language that can be used for client-side and server-side. It allows you that make your web pages interactive. You can do things like make a search bar, automatic refreshing a page, or animate images. JavaScript can update and change both HTML and CSS. It can calculate, manipulate, and validate data. It is supported by all major browsers.
+JavaScript is a programming language that can be used for client-side and server-side. It allows you that make your web pages interactive. You can do things like making a search bar, automatically refreshing a page or animate images. JavaScript can update and change both HTML and CSS. It can calculate, manipulate, and validate data. It is supported by all major browsers.
 
 ## JavaScript Basics
 
@@ -18,14 +18,14 @@ Comments - Single line comments start with `//`.
 ### Math with JavaScript
 
 ### JavaScript Arithmetic Operators
-`+	Addition
--	Subtraction
-*	Multiplication
-**	Exponentiation (ES2016)
-/	Division
-%	Modulus (Division Remainder)
-++	Increment
---	Decrement`
+-	Addition(+)
+-	Subtraction(-)
+-	Multiplication(*)
+-	Exponentiation(**)
+-	Division(/)
+-	Modulus (%)
+-	Increment(++)
+-	Decrement(--)
 
 let a = 7;         // assign the value 7 to a
 let b = 2;         // assign the value 3 to b
